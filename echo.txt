@@ -1,0 +1,1 @@
+Practice using echo in command line
