@@ -1,0 +1,7 @@
+Github commands cheat sheet
+
+git commit -a -m "message" - Add changes from all tracked files and commit them
+
+git reset --soft HEAD^ : remove the latest commit
+
+git commit --amend -m "message" : Add to the last commit 

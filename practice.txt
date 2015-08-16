@@ -1,5 +1,2 @@
 A practice file to practice uploading a file to Github
 
-git commit -a -m "message" - Add changes from all tracked files and commit them
-
-git reset --soft HEAD^ : remove the latest commi
