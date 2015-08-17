@@ -5,3 +5,5 @@ git config --global core.autocrlf input : auto carriage return / line feed handl
 git config --global push.default simple : just pushes current branch instead of all branches to github
 
 git config --global pull.rebase true : a pull command will now rebase instead of merge 
+
+git config --global color.ui true : adds color to command line 
