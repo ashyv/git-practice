@@ -18,3 +18,7 @@ git remote show origin : Shows whether each branch is up to date and tracked
 
 git fetch
 git rebase : use this instead of merging files with git pull and git push 
+
+git config --global color.ui true : color git log sha 
+git log --pretty=oneline : print out each commit on one line 
+git log --since=1.month.ago ==until=2.weeks.ago : set date range for log
