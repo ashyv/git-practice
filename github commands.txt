@@ -15,3 +15,6 @@ git commit --amend -m "message" : Add to the last commit
 git checkout -b <branch name> : Creates and switches over to new branch
 
 git remote show origin : Shows whether each branch is up to date and tracked
+
+git fetch
+git rebase : use this instead of merging files with git pull and git push 
