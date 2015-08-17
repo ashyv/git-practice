@@ -1,0 +1,3 @@
+Mastering Github
+
+git config --global core.autocrlf input : auto carriage return / line feed handling 
